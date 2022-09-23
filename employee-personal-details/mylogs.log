@@ -1,0 +1,56 @@
+[INFO ] 2022-09-22 00:31:01.890 [main]  - Employee Updated : true
+[ERROR] 2022-09-22 00:32:12.257 [main]  - Employee Updated : false
+[INFO ] 2022-09-22 00:43:35.518 [main]  - Employee Updated : true
+[INFO ] 2022-09-22 00:48:22.001 [main]  - FirstName:Harshitha PhoneNumber:93237283
+[INFO ] 2022-09-22 00:50:03.377 [main]  - Employee Added : true
+[INFO ] 2022-09-22 00:50:19.081 [main]  - FirstName:Harshitha PhoneNumber:93237283
+[INFO ] 2022-09-22 00:52:53.412 [main]  - FirstName:Harsha PhoneNumber:9732986428
+[INFO ] 2022-09-22 00:52:53.415 [main]  - FirstName:Harshitha PhoneNumber:93237283
+[INFO ] 2022-09-22 16:14:53.328 [main]  - Employee Added : true
+[INFO ] 2022-09-22 16:15:22.999 [main]  - FirstName:Harsha Email:gorlaharsha@gmail
+[INFO ] 2022-09-22 16:15:23.011 [main]  - FirstName:Preethi Email:pre@gmail.com
+[INFO ] 2022-09-22 16:15:23.011 [main]  - FirstName:Harshitha Email:harshi@gmail.com
+[INFO ] 2022-09-22 22:22:00.663 [main]  - Employee Added : true
+[INFO ] 2022-09-22 22:22:37.472 [main]  - FirstName:h Email:h@gamil
+[INFO ] 2022-09-22 22:22:37.472 [main]  - FirstName:Harsha Email:gorlaharsha@gmail
+[INFO ] 2022-09-22 22:22:37.472 [main]  - FirstName:Preethi Email:pre@gmail.com
+[INFO ] 2022-09-22 22:22:37.472 [main]  - FirstName:Harshitha Email:harshi@gmail.com
+[INFO ] 2022-09-22 22:25:55.203 [main]  - Employee Deleted : true
+[INFO ] 2022-09-22 22:26:07.556 [main]  - FirstName:h Email:h@gamil
+[INFO ] 2022-09-22 22:26:07.556 [main]  - FirstName:Harsha Email:gorlaharsha@gmail
+[INFO ] 2022-09-22 22:26:07.556 [main]  - FirstName:Preethi Email:pre@gmail.com
+[INFO ] 2022-09-22 22:26:07.556 [main]  - FirstName:Harshitha Email:harshi@gmail.com
+[INFO ] 2022-09-22 22:39:11.655 [main]  - Employee Added : true
+[INFO ] 2022-09-22 22:39:24.137 [main]  - FirstName:Ganesh Email:ganesh@gmail
+[INFO ] 2022-09-22 22:39:24.138 [main]  - FirstName:ravi Email:ravi@gmail
+[INFO ] 2022-09-22 22:39:24.138 [main]  - FirstName:Harsha Email:gorlaharsha@gmail
+[INFO ] 2022-09-22 22:39:24.138 [main]  - FirstName:Preethi Email:pre@gmail.com
+[INFO ] 2022-09-22 22:39:24.138 [main]  - FirstName:Harshitha Email:harshi@gmail.com
+[INFO ] 2022-09-22 22:41:01.375 [main]  - Employee Deleted : true
+[INFO ] 2022-09-22 22:41:19.083 [main]  - FirstName:Ganesh Email:ganesh@gmail
+[INFO ] 2022-09-22 22:41:19.083 [main]  - FirstName:Harsha Email:gorlaharsha@gmail
+[INFO ] 2022-09-22 22:41:19.083 [main]  - FirstName:Preethi Email:pre@gmail.com
+[INFO ] 2022-09-22 22:41:19.083 [main]  - FirstName:Harshitha Email:harshi@gmail.com
+[INFO ] 2022-09-23 16:22:44.824 [main]  - PersonalDetails [firstName=Joshna, lastName=Roddam, address=ATP, email=Joshna@gmail.com, phoneNumber=2873823, dateOfBirth=2000-08-14, weddingDate=2000-11-29]
+[INFO ] 2022-09-23 17:11:32.446 [main]  - FirstName:Ganesh PhoneNumber:9293092129
+[INFO ] 2022-09-23 17:11:32.448 [main]  - FirstName:Joshna PhoneNumber:2873823
+[INFO ] 2022-09-23 17:11:32.448 [main]  - FirstName:Preethi PhoneNumber:926380274
+[INFO ] 2022-09-23 17:11:32.448 [main]  - FirstName:Harsha PhoneNumber:9732986428
+[INFO ] 2022-09-23 17:11:32.448 [main]  - FirstName:Harshitha PhoneNumber:93237283
+[INFO ] 2022-09-23 22:05:17.948 [main]  - Employee Added is : true
+[INFO ] 2022-09-23 22:10:38.684 [main]  - Employee Added is : true
+[INFO ] 2022-09-23 22:11:11.108 [main]  - PersonalDetails [firstName=siva, lastName=sandi, address=Bellary, email=siva@gmail, phoneNumber=9837480123, dateOfBirth=1997-07-19, weddingDate=2024-06-18]
+[INFO ] 2022-09-23 22:11:28.841 [main]  - FirstName : siva  PhoneNumber : 9837480123
+[INFO ] 2022-09-23 22:11:28.841 [main]  - FirstName : Ganesh  PhoneNumber : 9293092129
+[INFO ] 2022-09-23 22:11:28.841 [main]  - FirstName : Joshna  PhoneNumber : 2873823
+[INFO ] 2022-09-23 22:11:28.841 [main]  - FirstName : ravi  PhoneNumber : 92733104
+[INFO ] 2022-09-23 22:11:28.841 [main]  - FirstName : Preethi  PhoneNumber : 926380274
+[INFO ] 2022-09-23 22:11:28.842 [main]  - FirstName : Harsha  PhoneNumber : 9732986428
+[INFO ] 2022-09-23 22:11:28.842 [main]  - FirstName : Harshitha  PhoneNumber : 93237283
+[ERROR] 2022-09-23 22:13:09.753 [main]  - Employee Updated is : false
+[INFO ] 2022-09-23 22:15:21.970 [main]  - Employee Updated  is : true
+[INFO ] 2022-09-23 22:15:39.714 [main]  - Employee Deleted : true
+[INFO ] 2022-09-23 22:15:49.805 [main]  - FirstName : Ganesh  Email : ganesh@gmail
+[INFO ] 2022-09-23 22:15:49.805 [main]  - FirstName : Preethi  Email : pre@gmail.com
+[INFO ] 2022-09-23 22:15:49.805 [main]  - FirstName : Harsha  Email : gorlaharsha@gmail
+[INFO ] 2022-09-23 22:16:08.330 [main]  - FirstName : Harsha    PhoneNumber:9732986428
